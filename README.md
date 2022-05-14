@@ -11,4 +11,5 @@ A GUI for server utilities.
 
 ## Show exceptions
 Use `ServerKit.exceptionWindow(<detail>)` to open crash window.
+
 ![Screen Shot 2022-05-14 at 15 37 40](https://user-images.githubusercontent.com/89689293/168416050-b43e9c9b-9216-4de3-9d9d-760b4bba1931.png)
